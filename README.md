@@ -1,9 +1,7 @@
 <!-- Profile README for Md. Imran Hossain Emu -->
 
 <div align="center">
-<!--
-<img src="Images/25.2.png" alt="Md. Imran Hossain Emu" width="170" height="170" style="border-radius:50%;" />
--->
+
 # Md. Imran Hossain Emu  
 ### Lecturer & Researcher | Department of CSE | BAIUST
 
