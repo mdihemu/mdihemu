@@ -247,7 +247,7 @@ Md Obyedullahil Mamun, Md Adyelullahil Mamun, Arif Ahmad and **Md. Imran Hossain
 </details>
 
 ---
-
+<!--
 ## 📊 GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdihemu&show_icons=true&include_all_commits=true&count_private=true)
@@ -257,7 +257,7 @@ Md Obyedullahil Mamun, Md Adyelullahil Mamun, Arif Ahmad and **Md. Imran Hossain
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdihemu&row=1&column=6)
 
 ---
-
+-->
 ## 📬 Contact
 
 <p>
