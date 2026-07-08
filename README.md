@@ -139,7 +139,8 @@ Md Obyedullahil Mamun, Md Adyelullahil Mamun, Arif Ahmad and **Md. Imran Hossain
 | Member, Departmental Equivalence Committee for Credit Transfer | 2023 – Present |
 | Member, CSE Fest 2025 Organizing Committee | 2025 |
 | Member, Committee for Preparation of IT Policy, BAIUST | 2026 |
-| Member, Prospectus Committee, BAIUST | 2023 – 2024 |
+| Member, Prospectus Committee, BAIUST | 2024 |
+| Member, Prospectus Committee, BAIUST | 2023 |
 | Member, Newsletter Committee, BAIUST | 2024 |
 
 ---
