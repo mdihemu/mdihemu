@@ -252,15 +252,18 @@ Md Obyedullahil Mamun, Md Adyelullahil Mamun, Arif Ahmad and **Md. Imran Hossain
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdihemu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mdihemu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="Md. Imran Hossain Emu GitHub Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdihemu&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdihemu&show_icons=true&locale=en&theme=yeblu" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdihemu&theme=flat&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mdihemu&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=6" alt="GitHub Profile Trophies" width="100%" />
 
 </div>
 
