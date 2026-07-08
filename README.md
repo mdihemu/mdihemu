@@ -245,17 +245,7 @@ Md Obyedullahil Mamun, Md Adyelullahil Mamun, Arif Ahmad and **Md. Imran Hossain
 </details>
 
 ---
-<!--
-## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdihemu&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdihemu&layout=compact&langs_count=8)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdihemu&row=1&column=6)
-
----
--->
 ## 📬 Contact
 
 <p>
@@ -270,7 +260,7 @@ Md Obyedullahil Mamun, Md Adyelullahil Mamun, Arif Ahmad and **Md. Imran Hossain
   </a>
 </p>
 
-**Address:** Department of CSE, BAIUST, Cumilla-3500, Bangladesh
+**Address:** Department of CSE, BAIUST, Cumilla-3500, Bangladesh.
 
 <div align="center">
 
