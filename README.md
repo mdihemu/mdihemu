@@ -250,22 +250,11 @@ Md Obyedullahil Mamun, Md Adyelullahil Mamun, Arif Ahmad and **Md. Imran Hossain
 
 ## 📊 GitHub Overview
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdihemu&show_icons=true&include_all_commits=true&count_private=true)
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mdihemu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="Md. Imran Hossain Emu GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdihemu&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most Used Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdihemu&layout=compact&langs_count=8)
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdihemu&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=6" alt="GitHub Profile Trophies" width="100%" />
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdihemu&row=1&column=6)
 
 ---
 
